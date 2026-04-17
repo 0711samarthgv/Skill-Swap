@@ -1,0 +1,40 @@
+{
+    "learner_name": "sam",
+    "learner_email": "sam@vvce.ac.in",
+    "requested_skill": "C++",
+    "recommendations": [
+        {
+            "name": "Ryan",
+            "email": "ryan87@vvce.ac.in",
+            "department": "CIVIL",
+            "preferred_mode": "Online",
+            "final_score": 0.987,
+            "badge": "Intermediate",
+            "skill_score": 58,
+            "reason": "High rating, Highly active, Completed skill test",
+            "confidence": "High"
+        },
+        {
+            "name": "Marissa",
+            "email": "marissa31@vvce.ac.in",
+            "department": "CSE",
+            "preferred_mode": "Online",
+            "final_score": 0.983,
+            "badge": "Expert",
+            "skill_score": 85,
+            "reason": "High rating, Completed skill test",
+            "confidence": "High"
+        },
+        {
+            "name": "Lisa",
+            "email": "lisa86@vvce.ac.in",
+            "department": "AIML",
+            "preferred_mode": "Hybrid",
+            "final_score": 0.977,
+            "badge": "Advanced",
+            "skill_score": 78,
+            "reason": "Same department, Highly active, Completed skill test",
+            "confidence": "High"
+        }
+    ]
+}
